@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url(./assets/bg.jpg);
+    background-size: cover;
+    align-items: center;
+}
+
+#heading{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-weight:bolder;
+    font-size: 80px;
+    margin : 30px;
+    color: rgb(235, 241, 246);
+    text-shadow: 2px 2px blue;
+}
+
+#content{
+    align-items: center;
+    text-align: center;
+}
+
+#Revtext{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+    font-size:x-large;
+    background-color: #e6f8fae7;
+    border-radius: 5px;
+    border-color: rgb(31, 130, 211);
+    box-shadow: 3px 3px blue;
+    margin-bottom: 50px;
+    text-align: start;
+    color:rgb(49, 46, 46);
+}
+
+#input{
+    resize: none;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+    font-size:x-large;
+    background-color: lavender;
+    border-radius: 5px;
+    border-color: rgb(31, 130, 211);
+    box-shadow: 3px 3px blue;
+}
